@@ -5,3 +5,34 @@ __pycache__/
 ip_info.json
 .DS_Store
 *.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+venv/
+.venv/
+ENV/
+env/
+
+# Логи
+logs/
+*.log
+
+# Временные файлы
+ip_info.json
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
